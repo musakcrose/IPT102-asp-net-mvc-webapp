@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJfWiej1hwgRK5axPsA6Nb55Z0IvD3oL99+2pyMMcaib8ly82thWbTSc8eDO/cv9Tn+VmpAyxRBHBqt5UowtQg==",
+  "dgSpecHash": "4pIY3IBRYbzuNnlLisELKKo/shX0Ga089NiGsy5r5q5DQOJ+4qyCAO6eJeNBHzHmQXX2UWZyvNzIEpAFfVPCJg==",
   "success": true,
-  "projectFilePath": "/Users/jescultura/personal/dotnetsample/dotnetsample.csproj",
+  "projectFilePath": "C:\\Users\\QCU\\Documents\\GitHub\\IPT102-asp-net-mvc-webapp\\dotnetsample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
